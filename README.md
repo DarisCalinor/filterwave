@@ -1,4 +1,4 @@
-#FILTERWAVE
+* FILTERWAVE
 
 An online image editing app.
 
