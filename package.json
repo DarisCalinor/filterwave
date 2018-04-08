@@ -1,0 +1,19 @@
+{
+  "name": "filter-wave",
+  "version": "1.0.0",
+  "description": "An online image filter app",
+  "main": "index.js",
+  "scripts": {
+    "test": "no test haha!"
+  },
+  "keywords": [
+    "image",
+    "filter",
+    "blackwave",
+    "online",
+    "download",
+    "jpg"
+  ],
+  "author": "DarisCalinor",
+  "license": "ISC"
+}
